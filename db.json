@@ -1,0 +1,268 @@
+{
+  "platos": [
+    {
+      "id": 1,
+      "nombre": "Lomo saltado",
+      "precio": "25.67",
+      "procedencia": "Costa",
+      "chedId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Chaufa",
+      "precio": "22.67",
+      "procedencia": "Costa",
+      "chedId": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Estofado de pollo",
+      "precio": "15.40",
+      "procedencia": "Costa",
+      "chedId": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Pachamanca",
+      "precio": "65.27",
+      "procedencia": "Sierra",
+      "chedId": 2
+    },
+    {
+      "id": 5,
+      "nombre": "Tacacho con cecina",
+      "precio": "25.67",
+      "procedencia": "Selva",
+      "chedId": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Carapulcra",
+      "precio": "28.67",
+      "procedencia": "Sierra",
+      "chedId": 6
+    },
+    {
+      "id": 7,
+      "nombre": "Arroz con pollo",
+      "precio": "28.07",
+      "procedencia": "Costa",
+      "chedId": 3
+    },
+    {
+      "id": 8,
+      "nombre": "Picante de cuy",
+      "precio": "45.67",
+      "procedencia": "Sierra",
+      "chedId": 5
+    },
+    {
+      "id": 9,
+      "nombre": "Lomo stronogoff",
+      "precio": "75.67",
+      "procedencia": "Cost",
+      "chedId": 5
+    },
+    {
+      "id": 10,
+      "nombre": "Paella",
+      "precio": "75.67",
+      "procedencia": "Sierra",
+      "chedId": 5
+    },
+    {
+      "nombre": "Ceviche",
+      "precio": "15.67",
+      "procedencia": "Costa",
+      "chedId": 3,
+      "id": 11
+    }
+  ],
+  "chefs": [
+    {
+      "id": 1,
+      "nombre": "Mariana",
+      "apellidos": "Linares Rivera",
+      "edad": 28,
+      "calificacion": 9
+    },
+    {
+      "id": 2,
+      "nombre": "Ricardo",
+      "apellidos": "Ramirez Lagos",
+      "edad": 34,
+      "calificacion": 7
+    },
+    {
+      "id": 3,
+      "nombre": "Martin",
+      "apellidos": "Rodriguez Cueva",
+      "edad": 23,
+      "calificacion": 8
+    },
+    {
+      "id": 4,
+      "nombre": "Julia",
+      "apellidos": "Perez Limo",
+      "edad": 37,
+      "calificacion": 5
+    },
+    {
+      "id": 5,
+      "nombre": "Pablo",
+      "apellidos": "Ramirez Rivas",
+      "edad": 20,
+      "calificacion": 4
+    },
+    {
+      "nombre": "Luis",
+      "apellidos": "Linares Prado",
+      "edad": 27,
+      "calificacion": 8,
+      "id": 6
+    },
+    {
+      "nombre": "Teresa",
+      "apellidos": "Peña Iparraguirre",
+      "edad": 21,
+      "calificacion": 6,
+      "id": 7
+    }
+  ],
+  "empresas": [
+    {
+      "id": 1,
+      "nombre": "Microsoft",
+      "descripcion": "Empresa de Tecnología y Sw",
+      "calificacion": 8
+    },
+    {
+      "id": 2,
+      "nombre": "Aplle",
+      "descripcion": "Empresa de Tecnología y Sw,Hw y equipos moviles",
+      "calificacion": 9
+    },
+    {
+      "id": 3,
+      "nombre": "Wong",
+      "descripcion": "Empresa Retail supermercados",
+      "calificacion": 7
+    },
+    {
+      "id": 4,
+      "nombre": "Plaza Vea",
+      "descripcion": "Empresa Retail supermercados peruana",
+      "calificacion": 8
+    },
+    {
+      "id": 5,
+      "nombre": "Facebook",
+      "descripcion": "Empresa creadora de React",
+      "calificacion": "8"
+    },
+    {
+      "id": 7,
+      "nombre": "linkedin",
+      "descripcion": "Red social para publicar tu experiencia laboral",
+      "calificacion": "10"
+    },
+    {
+      "nombre": "Tottus",
+      "descripcion": "Supermercado de gran variedad de productos y servicios",
+      "calificacion": "8",
+      "id": 8
+    }
+  ],
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Ricardo",
+      "apellidos": "Rojas Rodriguez",
+      "cargo": "Analista Programador"
+    },
+    {
+      "id": 2,
+      "nombre": "Maria",
+      "apellidos": "Rivera Perez",
+      "cargo": "Analista de Base de Datos"
+    },
+    {
+      "id": 3,
+      "nombre": "Julio",
+      "apellidos": "Ramirez Nevada",
+      "cargo": "Jefe de Proyectos"
+    },
+    {
+      "id": 4,
+      "nombre": "Yesenia",
+      "apellidos": "Vasquez Campos",
+      "cargo": "Analista de Programador Jr"
+    }
+  ],
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "Sing",
+      "estreno": 2016,
+      "genero": "musical",
+      "duracion": "1h 48m",
+      "calificacion": "bueno"
+    },
+    {
+      "id": 2,
+      "nombre": "Jumanji",
+      "estreno": 2019,
+      "genero": "aventura",
+      "duracion": "2h 3m",
+      "calificacion": "regular"
+    },
+    {
+      "id": 3,
+      "nombre": "venganza despiadada",
+      "estreno": 2011,
+      "genero": "accion",
+      "duracion": "1h 51m",
+      "calificacion": "bueno"
+    },
+    {
+      "id": 4,
+      "nombre": "una chica del sigo XX",
+      "estreno": 2022,
+      "genero": "romance",
+      "duracion": "2h 1m",
+      "calificacion": "bueno"
+    },
+    {
+      "id": 5,
+      "nombre": "harriet",
+      "estreno": 2019,
+      "genero": "historia",
+      "duracion": "2h 5m",
+      "calificacion": "excelente"
+    },
+    {
+      "id": 6,
+      "nombre": "masacre en texas",
+      "estreno": 2022,
+      "genero": "terror",
+      "duracion": "1h 23m",
+      "calificacion": "regular"
+    },
+    {
+      "id": 7,
+      "nombre": "misterio",
+      "estreno": 2022,
+      "genero": "drama",
+      "duracion": "1h 24m",
+      "calificacion": "excelente"
+    },
+    {
+      "id": 9,
+      "nombre": "Rambo",
+      "estreno": "1998",
+      "genero": "accion",
+      "duracion": "2h 5m",
+      "calificacion": "excelente"
+    }
+  ]
+}
